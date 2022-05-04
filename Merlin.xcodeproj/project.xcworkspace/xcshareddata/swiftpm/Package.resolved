@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "merlin",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/moonspotting/merlin.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "11feb7cd821d2f68a8f6563e96da466c8ad8c0f9"
+      }
+    },
+    {
+      "identity" : "package",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/archivable/package.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "7daf13efb6bac4a0db632f700045c0e966ab980a"
+      }
+    }
+  ],
+  "version" : 2
+}
